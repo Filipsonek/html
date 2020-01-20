@@ -1,7 +1,8 @@
 h1 {font-family: "Times New Roman", Times, serif;color:red; font-size:22px;}
 p1 {font-family: "Times New Roman", Times, serif;color: gray; font-size:15px;}
 table {position: absolute right; border-style: solid}
-article {
+
+article#1 {
   position: relative;
   width: 400px;
   height: 200px;
@@ -16,6 +17,13 @@ p1 {
   height: 100px;
   color: gray;
 }
+
+article#2 {
+	position: center;
+	width: 400px;
+	height: 200px;
+	}
+	
 footer {
 	position: center;
 	color: black
